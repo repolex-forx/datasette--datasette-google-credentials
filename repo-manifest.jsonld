@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-google-credentials/commit/c2813790682282c732a26bffbfd298aac302ea74",
       "git:hexsha": "c2813790682282c732a26bffbfd298aac302ea74",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
